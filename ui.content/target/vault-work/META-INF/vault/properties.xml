@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>JPBreadcrumb - UI content</comment>
+<entry key="createdBy">satish</entry>
+<entry key="name">jpbreadcrumb.ui.content</entry>
+<entry key="created">2018-01-12T23:20:00.112-0500</entry>
+<entry key="groupId">org.satish</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">JPBreadcrumb Content Package</entry>
+<entry key="description">UI content package for JPBreadcrumb</entry>
+<entry key="artifactId">jpbreadcrumb.ui.content</entry>
+<entry key="path">/etc/packages/JPBreadcrumb Content Package/jpbreadcrumb.ui.content.zip</entry>
+</properties>
